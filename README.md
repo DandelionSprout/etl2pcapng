@@ -1,4 +1,3 @@
-
 # About
 
 This tool enables you to view ndiscap and pktmon packet captures with Wireshark. Due to performance problems with the other popular packet capture method (WinPcap, which was included with older versions of Wireshark), these inbox tools should be preferred.
@@ -29,7 +28,7 @@ Note: pktmon has a built-in etl2pcap conversion utility ("pktmon etl2pcap \<file
 
 # Usage
 
-Prebuilt binaries are available in the Releases section: https://github.com/microsoft/etl2pcapng/releases
+Prebuilt binaries are available in the Releases section: https://github.com/microsoft/etl2pcapng/releases. The 1.11 binary is also available from Winget with `winget install Microsoft.etl2pcapng`.
 
 Run the tool with:
 
